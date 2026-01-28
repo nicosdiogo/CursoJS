@@ -16,7 +16,7 @@ function performOperation() {
 
             function multiply(a, b) {
                 // Introduce a debugger statement to pause execution
-                //debugger;
+                debugger;
                     let add = a + b;
                     let sub = a - b;
                     let mult = a * b;
